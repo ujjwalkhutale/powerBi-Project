@@ -22,6 +22,8 @@ Uncovered Insights: Found trends, identified best-selling products, and highligh
 Tools Used
 
 Power BI: For creating the dashboards and visuals.
+
 Excel: For initial data exploration and cleaning.
+
 DAX (Data Analysis Expressions): To calculate custom metrics like total sales, growth rates, and product performance.
 
