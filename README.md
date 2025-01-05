@@ -2,6 +2,7 @@ Dairy Sales Analysis Project
 
 Project Overview
   This project dives into the sales data of a dairy business to uncover patterns and insights that can help make better decisions. Using Power BI, we built an interactive dashboard that tells the story behind the numbers—like which products sell the best, when sales peak, and where opportunities for growth lie.The idea was to turn raw data into something actionable, visually appealing, and easy to understand for anyone looking to optimize sales and performance.
+![20210907_131832](https://github.com/user-attachments/assets/b71d1d34-b8c2-4a9e-8202-2097c3e480ae)
 
 Why This Project?
 
